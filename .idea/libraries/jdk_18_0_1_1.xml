@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdk-18.0.1.1">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///Library/Java/JavaVirtualMachines/jdk-18.0.1.1.jdk" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
